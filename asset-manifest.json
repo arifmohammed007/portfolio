@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.820a2d23.css",
+    "main.js": "/portfolio/static/js/main.62a4d53a.js",
+    "static/media/aboutimage.JPG": "/portfolio/static/media/aboutimage.ffbe69e8d0d6ae475c3e.JPG",
+    "static/media/arif.png": "/portfolio/static/media/arif.bc721bbd96370dba9dc2.png",
+    "static/media/arifcv.pdf": "/portfolio/static/media/arifcv.2172e23eeb19bdfc6cbb.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.820a2d23.css.map": "/portfolio/static/css/main.820a2d23.css.map",
+    "main.62a4d53a.js.map": "/portfolio/static/js/main.62a4d53a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.820a2d23.css",
+    "static/js/main.62a4d53a.js"
+  ]
+}
